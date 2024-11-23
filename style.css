@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+}
+
+header h1 {
+    color: #4CAF50;
+    font-size: 2rem;
+}
+
+canvas {
+    border: 1px solid #000;
+    background-color: #fff;
+}
+
+#results {
+    font-size: 1rem;
+    color: #333;
+}
